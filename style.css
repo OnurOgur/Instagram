@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar ul {
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+}
+
+#navbar ul li {
+    font-size: 20px;
+    padding: 0 15px;
+    cursor: pointer;
+}
+
+#navbar ul li img {
+    border-radius: 50%;
+}
+
+#navbar button {
+    width: 250px;
+    background-color: transparent;
+    border-color: rgb(194, 192, 192);
+}
+
+#center .container .row .col ol {
+    width: 70%;
+    margin-left: 40px;
+}
+
+#center .puntos {
+    margin-left: 360px;
+}
